@@ -5,8 +5,8 @@ I am Front End developer.
 --------------------------
 
 *   🌍  I'm based in Katerini, Greece
-*   🖥️  See my portfolio at <a target="_blank" rel="noreferrer" href='https://m2-portfolio.vercel.app/'>Portfolio</a>
-*   🧠  Currently learning Next.js
+*   🖥️  See my portfolio at <a target="_blank" rel="noreferrer" href='https://m2-portfolio.vercel.app/'>M² Webworks</a>
+*   🧠  Currently learning Vue
 *   🤝  I'm open to collaborating on interesting projects as a Front End developer
 
 ### Skills
