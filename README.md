@@ -23,5 +23,11 @@ I am Front End developer.
 <p align="left"> 
  <a href="https://www.linkedin.com/in/mixalis-meliopoulos/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
+ </a>&nbsp;
+ <a href="https://www.facebook.com/mixalis.meliopoulos/" target="_blank" rel="noreferrer">
+ <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" />
+ </a>&nbsp;
+  <a href="https://www.instagram.com/mixalis__meliopoulos/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" />
  </a>
 </p>
