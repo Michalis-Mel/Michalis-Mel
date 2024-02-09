@@ -30,5 +30,3 @@ I am a Front End Developer.
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" />
  </a>
 </p>
-
-<a href="https://app.daily.dev/michael96"><img src="https://api.daily.dev/devcards/000a92816f394b93bae123cfc0780167.png?r=oso" width="300" alt="Michael's Dev Card"/></a>
