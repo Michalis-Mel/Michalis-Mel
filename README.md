@@ -31,4 +31,4 @@ I am a Front End Developer.
  </a>
 </p>
 
-<a href="https://app.daily.dev/michael96"><img src="https://api.daily.dev/devcards/000a92816f394b93bae123cfc0780167.png?r=oso" width="400" alt="Michael's Dev Card"/></a>
+<a href="https://app.daily.dev/michael96"><img src="https://api.daily.dev/devcards/000a92816f394b93bae123cfc0780167.png?r=oso" width="300" alt="Michael's Dev Card"/></a>
